@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="#">National Brain Research Center</a>. Manesar, Haryana, India. Exploring molecular science of neural regeneration.
+description: PhD scholar at National Brain Research Center. Manesar, Haryana, India. Exploring molecular science of neural regeneration.
 
 profile:
   align: right
