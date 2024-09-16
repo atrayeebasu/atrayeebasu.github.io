@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://atrayeebasu.github.io/al-folio/sitemap.xml
+Sitemap: https://atrayeebasu.github.io/sitemap.xml
