@@ -1,25 +1,25 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+description: <a href="#">Yale School of Medicine</a>, New Haven, CT. Exploring molecular science of neural regeneration.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+    <p>Yale School of Medicine</p>
+    <p>100 College Street,</p>
+    <p>New Haven, CT 06510, USA</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Associate at Yale School of Medicine, working with [Dr. Stephen Strittmatter](https://medicine.yale.edu/profile/stephen-strittmatter/). I did my PhD from [National Brain Research Center (NBRC)](https://anindyaghoshroy.weebly.com/), Manesar, India, supervised by [Dr. Anindya Ghosh Roy](https://anindyaghoshroy.weebly.com/). My primary research interests involve investigating whether axonal regeneration following injury in adulthood leads to functional recovery in [_Caenorhabditis elegans_](http://www.wormbook.org/chapters/www_celegansintro/celegansintro.html). In my PhD thesis I have also addressed the molecular and cellular basis of functional recovery, using mechanosensory neuron involving touch sensation as the model. Specifically, we showed that a self-fusion mechanism between the neuron’s severed proximal and distal part during regeneration leads to a quick functional repair and this phenomenon is regulated by a [highly conserved miRNA let-7](https://www.pnas.org/content/114/47/E10206).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In another line of research I investigate the effect of DAF-16/ FOXO transcription factor in Insulin/IIS signalling, which regulates the guidance of the regrowing axon towards its proper postsynaptic target in both cell-autonomous and non-autonomous manner.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also highly interested to further explore neural regeneration in higher models involving vertebrates such as mouse. You can find [my detailed CV here](assets/pdf/cv.pdf). I am a recipient of the [Inspiring Science Award, 2019](https://www.tnq.co.in/inspiring-science-award/2019.php) from TNQ, India.
+My research has been featured in [The Hindu](https://www.thehindu.com/sci-tech/science/nbrc-researchers-discover-functional-recovery-mechanism-after-neuronal-injury/article20443364.ece), one of the leading English newspapers in India. Other than research, I am a professional Indian Classical dancer (Bharatnatyam), and love painting and composing music.
