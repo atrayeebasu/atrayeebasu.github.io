@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="#">Yale School of Medicine</a>, New Haven, CT. Exploring molecular science of neural regeneration.
+description: Yale School of Medicine, New Haven, CT. Exploring molecular science of neural regeneration.
 
 profile:
   align: right
